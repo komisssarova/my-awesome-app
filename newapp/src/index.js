@@ -25,7 +25,7 @@ const input = document.querySelector(".top-banner input");
 const msg = document.querySelector(".top-banner .msg");
 const list = document.querySelector(".ajax-section .cities");
 
-const apiKey = "cf507581bf99767ce62cc29c668a536f";
+const apiKey = "fb6fb9b9528056d079be158d41b2d055";
 
 form.addEventListener("submit", (e) => {
   e.preventDefault();
